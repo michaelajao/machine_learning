@@ -1,0 +1,2 @@
+# machine_learning
+This project looks into the techniques used in preprocessing, feature engineering  and machine learning evaluation. to predict the binary classification of the titanic dataset using Logistical Regression, Support Vector Machine, Random Forest, Stochastic Gradient Descent (SGD), K Nearest Neighbor, Gaussian Naive Bayes, Decision Tree. The algorithm was run on a jupyter notebook using python and Scikit-learn library. This dataset was used as a competition on Kaggle
